@@ -1,1 +1,1 @@
-#Seja bem bindo Leia do AZure Esentials
+#Seja bem vindo Leia do AZure Esentials
