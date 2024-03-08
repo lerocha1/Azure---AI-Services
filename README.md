@@ -27,7 +27,10 @@ base de dados utilizada [bike_rental](https://aka.ms/bike-rentals). Aqui usar ar
 
 Por utimo, usar os pontos de Endpoints para o modelo se orientar e criar um predict de aluguel de bicicletas.
 
- {
+
+## 👨‍💻Exemplo para calculo de Extremidade.
+```JSON
+{
    "Inputs": { 
      "data": [
        {
@@ -48,16 +51,16 @@ Por utimo, usar os pontos de Endpoints para o modelo se orientar e criar um pred
    },   
    "GlobalParameters": 1.0
  }
+```
 
-
-## Referência
+## 📚Referência
 
  - [Documentação Azure](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
  - [Portal Azure](https://portal.azure.com)
  - [Base de dados](https://aka.ms/bike-rentals)
 
 
-## Autores
+## 😊Autores
 
 - [@lerocha1](https://www.github.com/lerocha1)
 
